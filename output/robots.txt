@@ -1,0 +1,4 @@
+Sitemap: https://slmason85.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: slmason85.github.io
