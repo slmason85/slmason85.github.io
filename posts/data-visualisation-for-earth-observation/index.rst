@@ -1,7 +1,7 @@
 .. title: Data visualisation for Earth Observation
 .. slug: data-visualisation-for-earth-observation
 .. date: 2016-09-08 11:31:34 UTC+01:00
-.. tags: draft, teaching, visualisation, earth observation
+.. tags: teaching, visualisation, earth observation
 .. category: 
 .. link: 
 .. description: Reflections on my first guest lecture 

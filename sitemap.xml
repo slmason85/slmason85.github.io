@@ -7,15 +7,35 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://slmason85.github.io/</loc>
-  <lastmod>2016-09-08T10:33:00Z</lastmod>
+  <lastmod>2016-09-08T10:34:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://slmason85.github.io/2016/</loc>
+  <lastmod>2016-09-08T10:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://slmason85.github.io/archive.html</loc>
-  <lastmod>2016-09-01T13:54:00Z</lastmod>
+  <lastmod>2016-09-08T10:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://slmason85.github.io/categories/</loc>
-  <lastmod>2016-08-31T17:35:00Z</lastmod>
+  <lastmod>2016-09-08T10:34:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://slmason85.github.io/categories/earth-observation/</loc>
+  <lastmod>2016-09-08T10:34:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://slmason85.github.io/categories/teaching/</loc>
+  <lastmod>2016-09-08T10:34:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://slmason85.github.io/categories/visualisation/</loc>
+  <lastmod>2016-09-08T10:34:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://slmason85.github.io/posts/data-visualisation-for-earth-observation/</loc>
+  <lastmod>2016-09-08T10:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://slmason85.github.io/stories/eo-data-visualisation/</loc>
