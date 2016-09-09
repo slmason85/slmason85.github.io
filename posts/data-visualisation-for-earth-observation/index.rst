@@ -7,7 +7,9 @@
 .. description: Reflections on my first guest lecture 
 .. type: text
 
-Yesterday I gave my first guest lecture, for a NERC advanced training course on Earth Observation.
-The topic was Data Visualisation for Earth Observation, and I focused on using `Python` with `netCDF` files.
+This week I gave my first guest lecture, two interactive tutorials on data visualisation for Earth Observation datasets.
+The context was week-long NERC advanced training course held at the University of Reading; the attendees were for the most part PhD students and early-career researchers.
+
+
 
 
